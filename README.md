@@ -2,3 +2,4 @@ This project contains scripts and tools for image analysis related to fluorescen
 It belongs to the publication:
 Stephan et al. (2024) "Giant unilamellar vesicles as a cell-free platform to study selective bacteriophage binding and genome injection at the Gram-negative outer membrane" https://doi.org/10.1101/2024.08.19.608551
 
+Link to this project on github: https://doi.org/10.5281/zenodo.22917744
